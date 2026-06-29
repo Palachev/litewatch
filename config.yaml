@@ -1,0 +1,10 @@
+# LiteWatch — конфигурация агента
+telegram_token: "ВСТАВЬ_ТОКЕН_ОТ_BOTFATHER"
+telegram_chat_id: "ВСТАВЬ_СВОЙ_CHAT_ID"
+
+interval_seconds: 30   # как часто проверять (сек)
+
+thresholds:
+  cpu: 90      # тревога если CPU выше 90%
+  memory: 90   # тревога если RAM выше 90%
+  disk: 90     # тревога если диск заполнен выше 90%

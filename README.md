@@ -12,7 +12,7 @@
 [![Docker](https://img.shields.io/badge/Docker-ready-2496ED?logo=docker&logoColor=white)](#-вариант-2--docker)
 [![Telegram](https://img.shields.io/badge/Telegram-alerts-26A5E4?logo=telegram&logoColor=white)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#-вклад)
-[![Stars](https://img.shields.io/github/stars/ТЫ/litewatch?style=social)](https://github.com/Palachev/litewatch)
+[![Stars](https://img.shields.io/github/stars/ТЫ/litewatch?style=social)](https://github.com/ТЫ/litewatch)
 
 </div>
 
@@ -54,7 +54,12 @@
 
 ---
 
+## 🎬 Демо
 
+<!-- TODO: запиши GIF работы и положи в docs/demo.gif -->
+<div align="center">
+
+```
   ┌─────────────────────────────────────────┐
   │  🟢 LiteWatch запущен и следит за сервером │
   │                                           │
@@ -63,6 +68,26 @@
   └─────────────────────────────────────────┘
 ```
 
+*👉 GIF-демо появится здесь. Замени блок выше на:*
+`![demo](docs/demo.gif)`
+
+</div>
+
+---
+
+## 🖼 Скриншоты
+
+<!-- Положи изображения в папку docs/ и раскомментируй -->
+<!--
+<div align="center">
+  <img src="docs/screenshot-alert.png" width="320" alt="Уведомление в Telegram" />
+  <img src="docs/screenshot-startup.png" width="320" alt="Запуск агента" />
+</div>
+-->
+
+> 📌 Скриншоты появятся здесь. Сделай 2–3 снимка уведомлений в Telegram и положи в `docs/`.
+
+---
 
 ## 🚀 Установка
 
